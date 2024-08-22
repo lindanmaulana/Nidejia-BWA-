@@ -1213,6 +1213,46 @@ body {
   background-image: linear-gradient(to top, var(--tw-gradient-stops));
 }
 
+.bg-\[url\(\/images\/banner\.png\)\] {
+  background-image: url(/images/banner.png);
+}
+
+.bg-\[url\(public\/images\/banner\.png\)\] {
+  background-image: url(public/images/banner.png);
+}
+
+.bg-\[url\(\/images\/our-latest-deals\/brown-hall\.png\)\] {
+  background-image: url(/images/our-latest-deals/brown-hall.png);
+}
+
+.bg-\[url\(\/images\/our-latest-deals\/de-flecce\.png\)\] {
+  background-image: url(/images/our-latest-deals/de-flecce.png);
+}
+
+.bg-\[url\(\/images\/our-latest-deals\/mini-max\.png\)\] {
+  background-image: url(/images/our-latest-deals/mini-max.png);
+}
+
+.bg-\[url\(\/images\/our-latest-deals\/party-every\.png\)\] {
+  background-image: url(/images/our-latest-deals/party-every.png);
+}
+
+.bg-\[url\(\/images\/unlock-your-joy\/house-for-office\.png\)\] {
+  background-image: url(/images/unlock-your-joy/house-for-office.png);
+}
+
+.bg-\[url\(\/images\/unlock-your-joy\/house-historical\.png\)\] {
+  background-image: url(/images/unlock-your-joy/house-historical.png);
+}
+
+.bg-\[url\(\/images\/unlock-your-joy\/house-nearby\.png\)\] {
+  background-image: url(/images/unlock-your-joy/house-nearby.png);
+}
+
+.bg-\[url\(\/images\/unlock-your-joy\/landed-house\.png\)\] {
+  background-image: url(/images/unlock-your-joy/landed-house.png);
+}
+
 .from-\[\#010101\] {
   --tw-gradient-from: #010101 var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(1 1 1 / 0) var(--tw-gradient-to-position);
